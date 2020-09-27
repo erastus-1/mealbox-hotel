@@ -28,7 +28,8 @@
                text-decoration: none;
                font-weight: bolder;
                color: darkcyan;
-               margin-left: 20px;
+               margin-left:40px;
+               font-size: larger;
               }
             img {
                  float: left;

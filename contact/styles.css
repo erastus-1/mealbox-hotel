@@ -1,0 +1,32 @@
+@media screen and (min-width :480px) {
+    body { 
+          background-color: black;
+          color : white;
+         }
+
+    h1 {
+        text-align: center;
+        color: darkblue;
+       }
+@media screen and (min-width :760px) {
+        body {
+              background-color: darksalmon;
+              color: gray;
+             }
+    
+        h2 {
+            text-align: center;
+            color: darkmagenta;
+            font-weight: bold;
+            font-style: italic;
+           }
+        body {
+              background-color: lightblue;
+             }
+        a {
+           text-decoration: none;
+           font-weight: bolder;
+           color: darkcyan;
+           margin-left: 20px;
+          }
+}
