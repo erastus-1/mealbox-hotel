@@ -32,7 +32,7 @@
               }
             img {
                  float: left;
-                 overflow: hidden;
+                 padding: 20px;
                 }
             .copyright {
                         border-top: dodgerblue;
@@ -41,6 +41,9 @@
             .general {
                       font-style: italic;
                       padding-left: 20px;
+                      font-style: italic;
+                      font-weight: bold;
+                      color: darkblue;
 
                      }
             p { 
