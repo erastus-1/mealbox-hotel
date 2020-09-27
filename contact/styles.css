@@ -10,12 +10,7 @@
        }
 }
 @media screen and (min-width :760px) {
-    h2 {
-        text-align: center;
-        color: darkmagenta;
-        font-weight: lighter;
-        font-style: italic;
-       }
+    
     body {
           background-color: lightblue;
          }
@@ -25,12 +20,14 @@
        color: darkcyan;
        margin-left:40px;
        font-size: larger;
+       font-style: italic;
       }
     img {
          float: left;
          padding: 20px;
          width: 700px;
          height: 450;
+         border-radius: 10px;
        }
     p { 
        font-family: sans-serif;

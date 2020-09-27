@@ -14,22 +14,10 @@
           background-color: darksalmon;
           color: gray;
          }
-
-    h2 {
-        text-align: center;
-        color: darkmagenta;
-        font-weight: lighter;
-        font-style: italic;
-       }
     body {
           background-color: lightblue;
          }
-    a {
-       text-decoration: none;
-       font-weight: bolder;
-       color: darkcyan;
-      }
-    .main {
+    image{
          float: left;
          border-radius: 10px;
         }
