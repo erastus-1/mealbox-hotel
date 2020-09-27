@@ -10,11 +10,6 @@
        }
 }
 @media screen and (min-width :760px) {
-    body {
-          background-color: darksalmon;
-          color: gray;
-         }
-
     h2 {
         text-align: center;
         color: darkmagenta;
@@ -34,19 +29,7 @@
     img {
          float: left;
          padding: 20px;
-        }
-    .copyright {
-                border-top: dodgerblue;
-                font-style: italic;
-               }
-    .general {
-              font-style: italic;
-              padding-left: 20px;
-              font-style: italic;
-              font-weight: bold;
-              color: darkblue;
-
-             }
+       }
     p { 
        font-family: sans-serif;
        color: saddlebrown;
